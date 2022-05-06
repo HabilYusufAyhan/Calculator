@@ -1,0 +1,16 @@
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap_makinesi.Form1.resources
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.AssemblyInfo.cs
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.exe
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.deps.json
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.runtimeconfig.json
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.runtimeconfig.dev.json
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.dll
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\bin\Debug\netcoreapp3.1\hesap makinesi.pdb
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.dll
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.pdb
+C:\Users\habil\OneDrive\Masaüstü\kod\hesap makinesi\hesap makinesi\obj\Debug\netcoreapp3.1\hesap makinesi.genruntimeconfig.cache
